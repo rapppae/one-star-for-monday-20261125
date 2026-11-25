@@ -4,7 +4,7 @@ Entry text (122 characters, 24 words (limit 25 words), gate max 180). Written to
 """
 import os
 
-ENTRY = """One star. The coffee was cold, the Wi-Fi was down, and the manager — Monday itself — smiled and said, 'See you next week.'"""
+ENTRY = """One star. The coffee was cold, the Wi-Fi was down, and the manager — Monday itself — smiled and said, 'Same time next week.'"""
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")

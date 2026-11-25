@@ -4,7 +4,7 @@
 
 [View the bounty on make.fun](https://make.fun/bounty/u-clever-harbor-75-one-star-for-monday-9ead4a61)
 
-> One star. The coffee was cold, the Wi-Fi was down, and the manager — Monday itself — smiled and said, 'See you next week.'
+> One star. The coffee was cold, the Wi-Fi was down, and the manager — Monday itself — smiled and said, 'Same time next week.'
 
 ## Run
 
